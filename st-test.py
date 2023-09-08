@@ -73,4 +73,4 @@ with col9:
     st.image('https://image.tmdb.org/t/p/original/5ESLsrW33Kw2c3GeLNHrG4Ef9M5.jpg', caption = 'Billy Madison')
     st.image('https://image.tmdb.org/t/p/original/2zU6nh8h9WS4aiwoaxgAEv7QPCm.jpg', caption = 'Clerks')
 
-
+st.balloons()
